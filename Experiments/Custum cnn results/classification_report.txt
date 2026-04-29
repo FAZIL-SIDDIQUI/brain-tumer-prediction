@@ -1,0 +1,18 @@
+Custom CNN Classification Report
+================================================================================
+                   precision    recall  f1-score   support
+
+      Astrocytoma     0.9029    0.8144    0.8564       194
+       Ependymoma     0.9627    0.9281    0.9451       278
+        Germinoma     0.9789    0.9754    0.9772       285
+     Glioblastoma     0.9596    0.9667    0.9631       270
+  Medulloblastoma     0.9542    0.9644    0.9593       281
+       Meningioma     0.9973    0.9691    0.9830       388
+         No_Tumor     0.9944    0.9833    0.9888       360
+Oligodendroglioma     0.9345    0.9625    0.9483       267
+        Pituitary     0.9756    0.9975    0.9864       400
+       Schwannoma     0.8543    0.9394    0.8948       231
+
+         accuracy                         0.9577      2954
+        macro avg     0.9514    0.9501    0.9502      2954
+     weighted avg     0.9584    0.9577    0.9576      2954
