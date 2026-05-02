@@ -1,0 +1,18 @@
+EfficientNet-B4 Classification Report
+================================================================================
+                   precision    recall  f1-score   support
+
+      Astrocytoma     0.5536    0.8247    0.6625       194
+       Ependymoma     1.0000    0.5935    0.7449       278
+        Germinoma     0.9948    0.6737    0.8033       285
+     Glioblastoma     0.7812    0.9259    0.8475       270
+  Medulloblastoma     0.9917    0.8470    0.9136       281
+       Meningioma     0.9860    0.7242    0.8351       388
+         No_Tumor     0.8568    0.9306    0.8921       360
+Oligodendroglioma     0.7079    0.8352    0.7663       267
+        Pituitary     0.9605    0.8500    0.9019       400
+       Schwannoma     0.5522    0.9610    0.7014       231
+
+         accuracy                         0.8145      2954
+        macro avg     0.8385    0.8166    0.8069      2954
+     weighted avg     0.8633    0.8145    0.8201      2954
